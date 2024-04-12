@@ -1604,7 +1604,7 @@ section.lazy-placeholder:after {
 .cid-u9KjRLSzDQ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-u9KjRLSzDQ .title {
   margin-bottom: 2rem;
@@ -1621,6 +1621,12 @@ section.lazy-placeholder:after {
 }
 .cid-u9KjRLSzDQ textarea.form-control {
   min-height: 188px;
+}
+.cid-u9KjRLSzDQ H2 {
+  color: #ffffff;
+}
+.cid-u9KjRLSzDQ LABEL {
+  color: #ffffff;
 }
 .cid-u9JpwiJna3 .navbar {
   padding: .5rem 0;
@@ -2034,7 +2040,7 @@ section.lazy-placeholder:after {
 .cid-u9KqJ51A18 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #2a5330;
 }
 .cid-u9KqJ51A18 .card-box {
   padding: 0 2rem;
