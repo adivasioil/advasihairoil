@@ -55,7 +55,8 @@
         "meta_descr": "आदिवासी तेल",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/capture-2024-04-12-20-33-02-365-270x280.png"
       },
       "components": [
         {
